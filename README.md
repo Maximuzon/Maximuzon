@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Maximuzon
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning on how to build various models and examine information.
+- 
 ///updating///
 
 <!---
