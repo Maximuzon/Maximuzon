@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analysis.
 - 🌱 I’m currently learning on how to build various models and examine information.
 
-///updating///
+will be updated soon..
 
 <!---
 Maximuzon/Maximuzon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
